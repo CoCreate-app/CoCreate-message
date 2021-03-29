@@ -1,4 +1,7 @@
-import {getCommonParams, getCommonParamsExtend, generateSocketClient} from "../../../CoCreateJS/src/common-fun.js"
+import CoCreateSocket from "@cocreate/socket"
+import {getCommonParams, getCommonParamsExtend, generateSocketClient} from "@cocreate/crud/src/common-fun.js"
+
+// let socket = new CoCreateSocket('ws');
 
 const CoCreateMessage = {
   socket: null,
