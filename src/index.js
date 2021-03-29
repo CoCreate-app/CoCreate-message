@@ -1,7 +1,7 @@
 import CoCreateSocket from "@cocreate/socket"
 import {getCommonParams, getCommonParamsExtend, generateSocketClient} from "@cocreate/crud/src/common-fun.js"
 
-// let socket = new CoCreateSocket('ws');
+let socket = new CoCreateSocket('ws');
 
 const CoCreateMessage = {
   socket: null,
