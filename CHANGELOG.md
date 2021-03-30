@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/CoCreate-app/CoCreate-message/compare/v1.0.1...v1.0.2) (2021-03-30)
+
+
+### Bug Fixes
+
+* import paths using npm ([de548e1](https://github.com/CoCreate-app/CoCreate-message/commit/de548e1d45314fc4e12df082df0c5189f0445242))
+
 ## [1.0.1](https://github.com/CoCreate-app/CoCreate-message/compare/v1.0.0...v1.0.1) (2021-03-29)
 
 
